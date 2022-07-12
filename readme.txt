@@ -1,0 +1,2 @@
+─# ./DownloadOICIntegrationsv2.sh [user_OIC]  ["Password_OIC"] https://[URI_OIC].integration.ocp.oraclecloud.com
+─# bash -x DownloadOICIntegrationsv2.sh [user_OIC]  ["Password_OIC"] https://[URI_OIC].integration.ocp.oraclecloud.com
